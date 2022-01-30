@@ -9,6 +9,7 @@ body{
   width: 100%;
   position: relative;
   display: flex;
+  margin-top: 200px;
 }
 
 .searchTerm {
@@ -49,7 +50,7 @@ body{
 
 .App {
   text-align: center;
-  background-color: #d3f9de;
+  background-color: #d3f9e4;
 
 }
 .box{
