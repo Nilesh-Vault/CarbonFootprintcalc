@@ -1,13 +1,26 @@
 import './App.css';
 import JSONDATA from './data 2.json'
 import {useState} from 'react'
+import { FaSistrix} from 'react-icons/fa';
 
 function App() {
   const[searchTerm, setSearchTerm] = useState('')
   return(
 
     <div className="App">
-    <input type="text" placeholder= "Search..." onChange={event =>{setSearchTerm(event.target.value)}}/>
+    {/* <p className='search'><FaSistrix className='searchIcon'/>
+    <input type="text" className='searchBar'placeholder= "Search..." onChange={event =>{setSearchTerm(event.target.value)}}/>
+    </p> */}
+    <div class="wrap">
+   <div class="search">
+      <input type="text" class="searchTerm" placeholder="Search...." onChange={event =>{setSearchTerm(event.target.value)}}/>
+      <button type="submit" class="searchButton">
+        <i class="fa fa-search">
+          <FaSistrix/>
+        </i>
+     </button>
+   </div>
+</div>
     <div>
     {JSONDATA.filter((val)=>{
       if (searchTerm == ""){
