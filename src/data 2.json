@@ -1,1940 +1,1934 @@
 [
- {
-  "item": "BEER IN CAN",
-  "n": 5,
-  "mean": 0.69,
-  "median": 0.69
- },
- {
-  "item": "BEER IN GLASS",
-  "n": 9,
-  "mean": 1.03,
-  "median": 0.96
- },
- {
-  "item": "BEER MODULAR CAN",
-  "n": 5,
-  "mean": 0.54,
-  "median": 0.53
- },
- {
-  "item": "CHOCOLATE OR CREAM FILLED COOKIES**",
-  "n": 9,
-  "mean": 1.69,
-  "median": 1.53
- },
- {
-  "item": "SIMPLE COOKIES**",
-  "n": 12,
-  "mean": 1.5,
-  "median": 1.39
- },
- {
-  "item": "MINERAL WATER*",
-  "n": 2,
-  "mean": 0.49,
-  "median": 0.49
- },
- {
-  "item": "BREAD MULTICEREAL**",
-  "n": 2,
-  "mean": 0.7,
-  "median": 0.7
- },
- {
-  "item": "BREAD PLAIN**",
-  "n": 9,
-  "mean": 0.97,
-  "median": 0.89
- },
- {
-  "item": "BREAD WHOLE**",
-  "n": 5,
-  "mean": 0.78,
-  "median": 0.77
- },
- {
-  "item": "BREAD FROZEN (F)*",
-  "n": 1,
-  "mean": 1.31,
-  "median": 1.31
- },
- {
-  "item": "CORNFLAKES*",
-  "n": 1,
-  "mean": 2.64,
-  "median": 2.64
- },
- {
-  "item": "DARK CHOCOLATE",
-  "n": 3,
-  "mean": 2.67,
-  "median": 2.71
- },
- {
-  "item": "MILK CHOCOLATE",
-  "n": 1,
-  "mean": 3.6,
-  "median": 3.6
- },
- {
-  "item": "COFFEE GROUND",
-  "n": 2,
-  "mean": 5.13,
-  "median": 5.13
- },
- {
-  "item": "COFFEE PARCHMENT",
-  "n": 4,
-  "mean": 8.47,
-  "median": 8.29
- },
- {
-  "item": "COFFEE DRIP FILTERED (L)",
-  "n": 2,
-  "mean": 0.6,
-  "median": 0.6
- },
- {
-  "item": "COFFEE SOLUBLE POWDER (L)",
-  "n": 1,
-  "mean": 0.33,
-  "median": 0.33
- },
- {
-  "item": "ESPRESSO (L)",
-  "n": 1,
-  "mean": 0.55,
-  "median": 0.55
- },
- {
-  "item": "FLAVORED CRACKERS**",
-  "n": 4,
-  "mean": 1.01,
-  "median": 0.93
- },
- {
-  "item": "PLAIN CRACKERS**",
-  "n": 8,
-  "mean": 1.24,
-  "median": 1.35
- },
- {
-  "item": "WHOLEGRAIN CRACKERS**",
-  "n": 17,
-  "mean": 0.99,
-  "median": 0.97
- },
- {
-  "item": "CRISPBREAD**",
-  "n": 6,
-  "mean": 1.36,
-  "median": 1.35
- },
- {
-  "item": "KETCHUP",
-  "n": 1,
-  "mean": 1.46,
-  "median": 1.46
- },
- {
-  "item": "MAYONNAISE",
-  "n": 1,
-  "mean": 2.04,
-  "median": 2.04
- },
- {
-  "item": "TEMPE'",
-  "n": 1,
-  "mean": 1.1,
-  "median": 1.1
- },
- {
-  "item": "EGG PASTA*",
-  "n": 5,
-  "mean": 3.19,
-  "median": 3.15
- },
- {
-  "item": "RASPBERRIES (F)*",
-  "n": 1,
-  "mean": 1.18,
-  "median": 1.18
- },
- {
-  "item": "APPLE JUICE (I)",
-  "n": 1,
-  "mean": 2.84,
-  "median": 2.84
- },
- {
-  "item": "BLUEBERRY JUICE (I)",
-  "n": 1,
-  "mean": 3,
-  "median": 3
- },
- {
-  "item": "CRANBERRY JUICE (I)",
-  "n": 1,
-  "mean": 2.88,
-  "median": 2.88
- },
- {
-  "item": "FIG JUICE (I)",
-  "n": 1,
-  "mean": 3.2,
-  "median": 3.2
- },
- {
-  "item": "KIWI JUICE (I)",
-  "n": 1,
-  "mean": 2.84,
-  "median": 2.84
- },
- {
-  "item": "MANGO JUICE (I)",
-  "n": 1,
-  "mean": 2.96,
-  "median": 2.96
- },
- {
-  "item": "PINEAPPLE JUICE (I)",
-  "n": 2,
-  "mean": 2.78,
-  "median": 2.78
- },
- {
-  "item": "STRAWBERRY JUICE (I)",
-  "n": 1,
-  "mean": 2.68,
-  "median": 2.68
- },
- {
-  "item": "ORANGE JUICE",
-  "n": 13,
-  "mean": 0.62,
-  "median": 0.46
- },
- {
-  "item": "PEAR JUICE",
-  "n": 2,
-  "mean": 0.49,
-  "median": 0.49
- },
- {
-  "item": "BUCKWHEAT FLOUR",
-  "n": 1,
-  "mean": 1.96,
-  "median": 1.96
- },
- {
-  "item": "DURUM WHEAT",
-  "n": 4,
-  "mean": 0.48,
-  "median": 0.47
- },
- {
-  "item": "GRAHAM FLOUR",
-  "n": 1,
-  "mean": 0.47,
-  "median": 0.47
- },
- {
-  "item": "MAIZE FLOUR",
-  "n": 1,
-  "mean": 1.31,
-  "median": 1.31
- },
- {
-  "item": "MILLET FLOUR",
-  "n": 1,
-  "mean": 1.37,
-  "median": 1.37
- },
- {
-  "item": "OAT MEAL",
-  "n": 5,
-  "mean": 1.13,
-  "median": 0.87
- },
- {
-  "item": "SORGHUM FLOUR",
-  "n": 1,
-  "mean": 1.33,
-  "median": 1.33
- },
- {
-  "item": "WHEAT PLAIN FLOUR",
-  "n": 16,
-  "mean": 0.61,
-  "median": 0.52
- },
- {
-  "item": "WHOLE WHEAT FLOUR",
-  "n": 6,
-  "mean": 0.38,
-  "median": 0.36
- },
- {
-  "item": "CHOCOLATE",
-  "n": 2,
-  "mean": 6.6,
-  "median": 6.6
- },
- {
-  "item": "ICE CREAM",
-  "n": 1,
-  "mean": 1.02,
-  "median": 1.02
- },
- {
-  "item": "VANILLA",
-  "n": 2,
-  "mean": 4.3,
-  "median": 4.3
- },
- {
-  "item": "AZUKI BEAN FLOUR",
-  "n": 1,
-  "mean": 1.32,
-  "median": 1.32
- },
- {
-  "item": "MUNG BEAN FLOUR",
-  "n": 1,
-  "mean": 1.49,
-  "median": 1.49
- },
- {
-  "item": "SOY MEAL",
-  "n": 2,
-  "mean": 0.62,
-  "median": 0.62
- },
- {
-  "item": "BEANS IN CAN",
-  "n": 1,
-  "mean": 0.11,
-  "median": 0.11
- },
- {
-  "item": "GREEN BEANS IN CAN",
-  "n": 1,
-  "mean": 1.45,
-  "median": 1.45
- },
- {
-  "item": "BEANS (F)",
-  "n": 1,
-  "mean": 1.77,
-  "median": 1.77
- },
- {
-  "item": "GREEN BEANS (F)",
-  "n": 1,
-  "mean": 2.74,
-  "median": 2.74
- },
- {
-  "item": "MARGARINE*",
-  "n": 6,
-  "mean": 1.43,
-  "median": 1.39
- },
- {
-  "item": "ALMOND COVERED WITH CHOCOLATE",
-  "n": 1,
-  "mean": 4.8,
-  "median": 4.8
- },
- {
-  "item": "HAZELNUT COVERED WITH CHOCOLATE",
-  "n": 1,
-  "mean": 3.43,
-  "median": 3.43
- },
- {
-  "item": "ALMOND PASTE",
-  "n": 2,
-  "mean": 2.98,
-  "median": 2.98
- },
- {
-  "item": "HAZELNUT CREAM",
-  "n": 2,
-  "mean": 2.71,
-  "median": 2.71
- },
- {
-  "item": "HAZELNUT PASTE",
-  "n": 2,
-  "mean": 1.69,
-  "median": 1.69
- },
- {
-  "item": "PEANUT BUTTER",
-  "n": 1,
-  "mean": 1.15,
-  "median": 1.15
- },
- {
-  "item": "PEANUT PASTE",
-  "n": 2,
-  "mean": 1.84,
-  "median": 1.84
- },
- {
-  "item": "OLIVE OIL",
-  "n": 45,
-  "mean": 3.84,
-  "median": 3.27
- },
- {
-  "item": "PALM OIL",
-  "n": 5,
-  "mean": 2.32,
-  "median": 2.43
- },
- {
-  "item": "PEANUT OIL",
-  "n": 2,
-  "mean": 2.9,
-  "median": 2.9
- },
- {
-  "item": "RAPESEED OIL",
-  "n": 9,
-  "mean": 2.4,
-  "median": 1.79
- },
- {
-  "item": "SOYBEAN OIL",
-  "n": 6,
-  "mean": 2.3,
-  "median": 1.79
- },
- {
-  "item": "SUNFLOWER OIL",
-  "n": 5,
-  "mean": 0.99,
-  "median": 0.98
- },
- {
-  "item": "PASTA*",
-  "n": 48,
-  "mean": 1.24,
-  "median": 1.21
- },
- {
-  "item": "PESTO",
-  "n": 2,
-  "mean": 2.71,
-  "median": 2.71
- },
- {
-  "item": "PESTO WITHOUT GARLIC",
-  "n": 1,
-  "mean": 2.72,
-  "median": 2.72
- },
- {
-  "item": "BEET SUGAR",
-  "n": 9,
-  "mean": 0.89,
-  "median": 0.94
- },
- {
-  "item": "CANE SUGAR",
-  "n": 7,
-  "mean": 0.67,
-  "median": 0.62
- },
- {
-  "item": "CAKES AND CROISSANT**",
-  "n": 14,
-  "mean": 2.23,
-  "median": 2.14
- },
- {
-  "item": "COCOA CAKES AND CROISSANT**",
-  "n": 9,
-  "mean": 1.97,
-  "median": 1.94
- },
- {
-  "item": "TOMATO CHOPPED",
-  "n": 4,
-  "mean": 1.41,
-  "median": 1.47
- },
- {
-  "item": "TOMATO PEELED",
-  "n": 3,
-  "mean": 1.28,
-  "median": 1.3
- },
- {
-  "item": "TOMATO PUREE",
-  "n": 7,
-  "mean": 1.17,
-  "median": 1.03
- },
- {
-  "item": "TOMATO & BASIL",
-  "n": 4,
-  "mean": 1.15,
-  "median": 1.14
- },
- {
-  "item": "TOMATO ARRABBIATA",
-  "n": 4,
-  "mean": 1.26,
-  "median": 1.24
- },
- {
-  "item": "CARROTS CANNED",
-  "n": 1,
-  "mean": 1.6,
-  "median": 1.6
- },
- {
-  "item": "CORN CANNED",
-  "n": 1,
-  "mean": 1.36,
-  "median": 1.36
- },
- {
-  "item": "CARROTS (F)",
-  "n": 1,
-  "mean": 0.27,
-  "median": 0.27
- },
- {
-  "item": "ZUCCHINI (F)",
-  "n": 1,
-  "mean": 1.35,
-  "median": 1.35
- },
- {
-  "item": "SOY CREAM*",
-  "n": 1,
-  "mean": 1.62,
-  "median": 1.62
- },
- {
-  "item": "ALMOND MILK",
-  "n": 2,
-  "mean": 0.42,
-  "median": 0.42
- },
- {
-  "item": "COCONUT MILK",
-  "n": 2,
-  "mean": 0.41,
-  "median": 0.41
- },
- {
-  "item": "RICE MILK",
-  "n": 3,
-  "mean": 0.8,
-  "median": 0.66
- },
- {
-  "item": "SOY MILK",
-  "n": 22,
-  "mean": 0.85,
-  "median": 0.78
- },
- {
-  "item": "QUORNE",
-  "n": 2,
-  "mean": 2.5,
-  "median": 2.5
- },
- {
-  "item": "SOY BURGER",
-  "n": 1,
-  "mean": 1.48,
-  "median": 1.48
- },
- {
-  "item": "TOFU",
-  "n": 4,
-  "mean": 2.33,
-  "median": 2.27
- },
- {
-  "item": "SOY YOGURT*",
-  "n": 1,
-  "mean": 1.36,
-  "median": 1.36
- },
- {
-  "item": "WINE RED",
-  "n": 17,
-  "mean": 1.02,
-  "median": 0.87
- },
- {
-  "item": "WINE WHITE",
-  "n": 3,
-  "mean": 0.74,
-  "median": 0.44
- },
- {
-  "item": "YEAST COMPRESSED*",
-  "n": 1,
-  "mean": 0.82,
-  "median": 0.82
- },
- {
-  "item": "YEAST DRIED*",
-  "n": 1,
-  "mean": 3.29,
-  "median": 3.29
- },
- {
-  "item": "YEAST LIQUID*",
-  "n": 1,
-  "mean": 0.5,
-  "median": 0.5
- },
- {
-  "item": "BEEF BONE FREE MEAT*",
-  "n": 183,
-  "mean": 27.72,
-  "median": 25.75
- },
- {
-  "item": "BEEF MEAT WITH BONE*",
-  "n": 172,
-  "mean": 19.54,
-  "median": 17.96
- },
- {
-  "item": "BUFFALO BONE FREE MEAT*",
-  "n": 3,
-  "mean": 71.39,
-  "median": 78.8
- },
- {
-  "item": "BUTTER*",
-  "n": 11,
-  "mean": 9.9,
-  "median": 8.48
- },
- {
-  "item": "CREAM",
-  "n": 8,
-  "mean": 5.34,
-  "median": 5.45
- },
- {
-  "item": "MASCARPONE",
-  "n": 1,
-  "mean": 5.7,
-  "median": 5.7
- },
- {
-  "item": "MOZZARELLA",
-  "n": 14,
-  "mean": 8.48,
-  "median": 8.2
- },
- {
-  "item": "RICOTTA",
-  "n": 1,
-  "mean": 3.4,
-  "median": 3.4
- },
- {
-  "item": "STRACCHINO",
-  "n": 1,
-  "mean": 4.92,
-  "median": 4.92
- },
- {
-  "item": "ASIAGO",
-  "n": 1,
-  "mean": 10.24,
-  "median": 10.24
- },
- {
-  "item": "CAMEMBERT",
-  "n": 2,
-  "mean": 7.55,
-  "median": 7.55
- },
- {
-  "item": "CEDDAR",
-  "n": 4,
-  "mean": 11.87,
-  "median": 11.21
- },
- {
-  "item": "CHEESE",
-  "n": 27,
-  "mean": 9.29,
-  "median": 8.93
- },
- {
-  "item": "CHEESE SEMI-HARD",
-  "n": 2,
-  "mean": 8.65,
-  "median": 8.65
- },
- {
-  "item": "EMMENTAL",
-  "n": 1,
-  "mean": 8.2,
-  "median": 8.2
- },
- {
-  "item": "GOAT CHEESE",
-  "n": 3,
-  "mean": 8.18,
-  "median": 8.35
- },
- {
-  "item": "GRANA PADANO",
-  "n": 3,
-  "mean": 14.27,
-  "median": 15.34
- },
- {
-  "item": "PARMIGIANO REGGIANO",
-  "n": 3,
-  "mean": 14.08,
-  "median": 12.54
- },
- {
-  "item": "PECORINO",
-  "n": 3,
-  "mean": 18.85,
-  "median": 17.15
- },
- {
-  "item": "MEALWORMS*",
-  "n": 1,
-  "mean": 2.84,
-  "median": 2.84
- },
- {
-  "item": "EGGS*",
-  "n": 51,
-  "mean": 3.23,
-  "median": 3.2
- },
- {
-  "item": "HONEY*",
-  "n": 2,
-  "mean": 1.74,
-  "median": 1.74
- },
- {
-  "item": "KANGAROO MEAT*",
-  "n": 1,
-  "mean": 4.1,
-  "median": 4.1
- },
- {
-  "item": "LAMB BONE FREE MEAT*",
-  "n": 55,
-  "mean": 27.21,
-  "median": 25.23
- },
- {
-  "item": "LAMB MEAT WITH BONE*",
-  "n": 55,
-  "mean": 18.01,
-  "median": 16.7
- },
- {
-  "item": "BUFFALO MILK",
-  "n": 7,
-  "mean": 3.75,
-  "median": 3.57
- },
- {
-  "item": "COW MILK",
-  "n": 364,
-  "mean": 1.43,
-  "median": 1.31
- },
- {
-  "item": "GOAT MILK",
-  "n": 2,
-  "mean": 1.44,
-  "median": 1.44
- },
- {
-  "item": "PORK BONE FREE MEAT*",
-  "n": 135,
-  "mean": 5.79,
-  "median": 5.72
- },
- {
-  "item": "BACON",
-  "n": 2,
-  "mean": 4.03,
-  "median": 4.03
- },
- {
-  "item": "NECK",
-  "n": 2,
-  "mean": 4.03,
-  "median": 4.03
- },
- {
-  "item": "PORK HAM",
-  "n": 4,
-  "mean": 7.93,
-  "median": 7.95
- },
- {
-  "item": "PORK SAUSAGES",
-  "n": 1,
-  "mean": 17.94,
-  "median": 17.94
- },
- {
-  "item": "PORK MEAT WITH BONE*",
-  "n": 131,
-  "mean": 3.5,
-  "median": 3.44
- },
- {
-  "item": "CHICKEN BONE FREE MEAT",
-  "n": 100,
-  "mean": 4.24,
-  "median": 3.68
- },
- {
-  "item": "EMU BONE FREE MEAT",
-  "n": 1,
-  "mean": 1.5,
-  "median": 1.5
- },
- {
-  "item": "DUCK MEAT BONE FREE",
-  "n": 1,
-  "mean": 4.1,
-  "median": 4.1
- },
- {
-  "item": "TURKEY MEAT BONE FREE",
-  "n": 12,
-  "mean": 5.11,
-  "median": 4.08
- },
- {
-  "item": "CHICKEN MEAT WITH BONE",
-  "n": 98,
-  "mean": 3.25,
-  "median": 2.82
- },
- {
-  "item": "DUCK MEAT WITH BONE",
-  "n": 1,
-  "mean": 2.07,
-  "median": 2.07
- },
- {
-  "item": "TURKEY MEAT WITH BONE",
-  "n": 6,
-  "mean": 2.08,
-  "median": 2.13
- },
- {
-  "item": "RABBIT MEAT WITH BONE*",
-  "n": 2,
-  "mean": 4.31,
-  "median": 4.31
- },
- {
-  "item": "SNAILS*",
-  "n": 1,
-  "mean": 0.73,
-  "median": 0.73
- },
- {
-  "item": "YOGURT FLAVOURED**",
-  "n": 14,
-  "mean": 2.81,
-  "median": 2.85
- },
- {
-  "item": "YOGURT LACTOSE FREE",
-  "n": 4,
-  "mean": 3.16,
-  "median": 3.47
- },
- {
-  "item": "YOGURT WHITE",
-  "n": 20,
-  "mean": 2.1,
-  "median": 1.69
- },
- {
-  "item": "COFFEE GREEN*",
-  "n": 8,
-  "mean": 0.49,
-  "median": 0.49
- },
- {
-  "item": "DATE",
-  "n": 2,
-  "mean": 0.6,
-  "median": 0.6
- },
- {
-  "item": "RAISIN",
-  "n": 5,
-  "mean": 0.66,
-  "median": 0.81
- },
- {
-  "item": "EXOTIC FRUIT (G)",
-  "n": 1,
-  "mean": 2.43,
-  "median": 2.43
- },
- {
-  "item": "RASPBERRY (G)",
-  "n": 2,
-  "mean": 7.35,
-  "median": 7.35
- },
- {
-  "item": "STRAWBERRY (G)",
-  "n": 4,
-  "mean": 2.94,
-  "median": 2.88
- },
- {
-  "item": "AVOCADO (I)",
-  "n": 4,
-  "mean": 1,
-  "median": 1.09
- },
- {
-  "item": "BANANA (I)",
-  "n": 20,
-  "mean": 0.81,
-  "median": 0.82
- },
- {
-  "item": "COCONUT (I)",
-  "n": 1,
-  "mean": 1.78,
-  "median": 1.78
- },
- {
-  "item": "EXOTIC FRUIT (I)",
-  "n": 1,
-  "mean": 2.43,
-  "median": 2.43
- },
- {
-  "item": "PINEAPPLE (I)",
-  "n": 7,
-  "mean": 0.73,
-  "median": 0.55
- },
- {
-  "item": "POMEGRANATE (I)",
-  "n": 1,
-  "mean": 1.17,
-  "median": 1.17
- },
- {
-  "item": "STRAWBERRY (I)",
-  "n": 2,
-  "mean": 0.84,
-  "median": 0.84
- },
- {
-  "item": "MELON (g)*",
-  "n": 4,
-  "mean": 1.41,
-  "median": 1.43
- },
- {
-  "item": "CLEMENTINE",
-  "n": 3,
-  "mean": 0.42,
-  "median": 0.41
- },
- {
-  "item": "LEMON",
-  "n": 2,
-  "mean": 0.22,
-  "median": 0.22
- },
- {
-  "item": "LIME",
-  "n": 2,
-  "mean": 0.22,
-  "median": 0.22
- },
- {
-  "item": "MANDARIN",
-  "n": 7,
-  "mean": 0.4,
-  "median": 0.45
- },
- {
-  "item": "ORANGE",
-  "n": 31,
-  "mean": 0.35,
-  "median": 0.3
- },
- {
-  "item": "POMELO",
-  "n": 1,
-  "mean": 0.51,
-  "median": 0.51
- },
- {
-  "item": "TANGERIN",
-  "n": 2,
-  "mean": 0.38,
-  "median": 0.38
- },
- {
-  "item": "APPLE",
-  "n": 59,
-  "mean": 0.31,
-  "median": 0.25
- },
- {
-  "item": "APRICOT",
-  "n": 7,
-  "mean": 0.36,
-  "median": 0.3
- },
- {
-  "item": "AVOCADO",
-  "n": 4,
-  "mean": 0.54,
-  "median": 0.54
- },
- {
-  "item": "BANANA",
-  "n": 9,
-  "mean": 0.38,
-  "median": 0.34
- },
- {
-  "item": "CARROB",
-  "n": 2,
-  "mean": 1.1,
-  "median": 1.1
- },
- {
-  "item": "CHERRY",
-  "n": 7,
-  "mean": 0.49,
-  "median": 0.46
- },
- {
-  "item": "FIG",
-  "n": 3,
-  "mean": 0.31,
-  "median": 0.26
- },
- {
-  "item": "GRAPES",
-  "n": 15,
-  "mean": 0.39,
-  "median": 0.31
- },
- {
-  "item": "GUAVA",
-  "n": 1,
-  "mean": 0.28,
-  "median": 0.28
- },
- {
-  "item": "KIWI",
-  "n": 12,
-  "mean": 0.65,
-  "median": 0.49
- },
- {
-  "item": "MANGO",
-  "n": 6,
-  "mean": 0.33,
-  "median": 0.31
- },
- {
-  "item": "MELON",
-  "n": 6,
-  "mean": 0.56,
-  "median": 0.61
- },
- {
-  "item": "PEACH",
-  "n": 12,
-  "mean": 0.43,
-  "median": 0.39
- },
- {
-  "item": "PEAR",
-  "n": 12,
-  "mean": 0.29,
-  "median": 0.27
- },
- {
-  "item": "PINEAPPLE",
-  "n": 6,
-  "mean": 0.34,
-  "median": 0.28
- },
- {
-  "item": "PLUM",
-  "n": 3,
-  "mean": 0.27,
-  "median": 0.26
- },
- {
-  "item": "POMEGRANATE",
-  "n": 3,
-  "mean": 0.45,
-  "median": 0.32
- },
- {
-  "item": "ROCKMELON",
-  "n": 1,
-  "mean": 0.39,
-  "median": 0.39
- },
- {
-  "item": "WATERMELON",
-  "n": 1,
-  "mean": 0.52,
-  "median": 0.52
- },
- {
-  "item": "OLIVES",
-  "n": 9,
-  "mean": 0.59,
-  "median": 0.64
- },
- {
-  "item": "BLACKBERRY",
-  "n": 1,
-  "mean": 0.42,
-  "median": 0.42
- },
- {
-  "item": "BLUEBERRY",
-  "n": 8,
-  "mean": 0.64,
-  "median": 0.78
- },
- {
-  "item": "CRANBERRY",
-  "n": 3,
-  "mean": 0.9,
-  "median": 0.87
- },
- {
-  "item": "CURRANT",
-  "n": 2,
-  "mean": 0.64,
-  "median": 0.64
- },
- {
-  "item": "GOOSEBERRY",
-  "n": 1,
-  "mean": 0.84,
-  "median": 0.84
- },
- {
-  "item": "RASPBERRY",
-  "n": 2,
-  "mean": 0.63,
-  "median": 0.63
- },
- {
-  "item": "STRAWBERRY",
-  "n": 27,
-  "mean": 0.68,
-  "median": 0.61
- },
- {
-  "item": "BARLEY",
-  "n": 17,
-  "mean": 0.53,
-  "median": 0.48
- },
- {
-  "item": "MAIZE",
-  "n": 7,
-  "mean": 0.79,
-  "median": 0.48
- },
- {
-  "item": "MILLET",
-  "n": 2,
-  "mean": 0.86,
-  "median": 0.86
- },
- {
-  "item": "OAT",
-  "n": 5,
-  "mean": 0.7,
-  "median": 0.67
- },
- {
-  "item": "QUINOA",
-  "n": 12,
-  "mean": 0.96,
-  "median": 0.97
- },
- {
-  "item": "RYE",
-  "n": 3,
-  "mean": 0.41,
-  "median": 0.38
- },
- {
-  "item": "SORGHUM",
-  "n": 1,
-  "mean": 0.88,
-  "median": 0.88
- },
- {
-  "item": "WHEAT",
-  "n": 44,
-  "mean": 0.67,
-  "median": 0.57
- },
- {
-  "item": "BEAN",
-  "n": 14,
-  "mean": 0.67,
-  "median": 0.43
- },
- {
-  "item": "CHICKPEA",
-  "n": 3,
-  "mean": 0.67,
-  "median": 0.77
- },
- {
-  "item": "COWPEA",
-  "n": 4,
-  "mean": 0.48,
-  "median": 0.49
- },
- {
-  "item": "GREEN BEAN (fresh)",
-  "n": 11,
-  "mean": 0.73,
-  "median": 0.52
- },
- {
-  "item": "LENTIL",
-  "n": 2,
-  "mean": 1.03,
-  "median": 1.03
- },
- {
-  "item": "PEA",
-  "n": 12,
-  "mean": 0.58,
-  "median": 0.45
- },
- {
-  "item": "SOYBEAN",
-  "n": 5,
-  "mean": 0.6,
-  "median": 0.56
- },
- {
-  "item": "GREEN BEAN (fresh) (g)*",
-  "n": 4,
-  "mean": 0.31,
-  "median": 0.28
- },
- {
-  "item": "MUSHROOM*",
-  "n": 6,
-  "mean": 1.78,
-  "median": 2.06
- },
- {
-  "item": "ALMOND",
-  "n": 13,
-  "mean": 1.9,
-  "median": 1.88
- },
- {
-  "item": "CASHEW NUT",
-  "n": 11,
-  "mean": 1.56,
-  "median": 1.38
- },
- {
-  "item": "CHESTNUT",
-  "n": 3,
-  "mean": 0.64,
-  "median": 0.44
- },
- {
-  "item": "HAZELNUT",
-  "n": 5,
-  "mean": 1.07,
-  "median": 1.11
- },
- {
-  "item": "MIXED NUTS",
-  "n": 1,
-  "mean": 0.47,
-  "median": 0.47
- },
- {
-  "item": "PALM NUT",
-  "n": 1,
-  "mean": 0.8,
-  "median": 0.8
- },
- {
-  "item": "PEANUT",
-  "n": 10,
-  "mean": 0.89,
-  "median": 0.83
- },
- {
-  "item": "PISTACHIO",
-  "n": 4,
-  "mean": 1.6,
-  "median": 1.6
- },
- {
-  "item": "WALNUT",
-  "n": 5,
-  "mean": 1.75,
-  "median": 2.06
- },
- {
-  "item": "RICE*",
-  "n": 35,
-  "mean": 2.54,
-  "median": 2.19
- },
- {
-  "item": "RAPE SEED",
-  "n": 3,
-  "mean": 1.05,
-  "median": 0.78
- },
- {
-  "item": "SESAM SEED",
-  "n": 1,
-  "mean": 0.88,
-  "median": 0.88
- },
- {
-  "item": "SUNFLOWER SEED",
-  "n": 2,
-  "mean": 1.16,
-  "median": 1.16
- },
- {
-  "item": "CHILLY",
-  "n": 1,
-  "mean": 0.8,
-  "median": 0.8
- },
- {
-  "item": "GINGER",
-  "n": 1,
-  "mean": 0.88,
-  "median": 0.88
- },
- {
-  "item": "POTATO",
-  "n": 35,
-  "mean": 0.25,
-  "median": 0.24
- },
- {
-  "item": "STARCHY ROOTS",
-  "n": 2,
-  "mean": 0.29,
-  "median": 0.29
- },
- {
-  "item": "SWEET POTATO",
-  "n": 3,
-  "mean": 0.35,
-  "median": 0.27
- },
- {
-  "item": "CUCUMBER (G)",
-  "n": 8,
-  "mean": 2.59,
-  "median": 2.55
- },
- {
-  "item": "GERKIN (G)",
-  "n": 4,
-  "mean": 2.52,
-  "median": 2.12
- },
- {
-  "item": "LETTUCE (G)",
-  "n": 7,
-  "mean": 2.69,
-  "median": 2.67
- },
- {
-  "item": "PEPPER (G)",
-  "n": 4,
-  "mean": 4.6,
-  "median": 3.73
- },
- {
-  "item": "TOMATO (G)",
-  "n": 36,
-  "mean": 2.89,
-  "median": 2.43
- },
- {
-  "item": "CUCUMBER (g)",
-  "n": 1,
-  "mean": 0.32,
-  "median": 0.32
- },
- {
-  "item": "EGGPLANT (g)",
-  "n": 1,
-  "mean": 2.9,
-  "median": 2.9
- },
- {
-  "item": "PEPPER (g)",
-  "n": 2,
-  "mean": 1.18,
-  "median": 1.18
- },
- {
-  "item": "TOMATO (g)",
-  "n": 28,
-  "mean": 0.94,
-  "median": 0.91
- },
- {
-  "item": "ZUCCHINI (g)",
-  "n": 2,
-  "mean": 1.77,
-  "median": 1.77
- },
- {
-  "item": "ASPARAGUS",
-  "n": 33,
-  "mean": 0.97,
-  "median": 0.83
- },
- {
-  "item": "CABAGGE",
-  "n": 9,
-  "mean": 0.3,
-  "median": 0.23
- },
- {
-  "item": "LETTUCE",
-  "n": 27,
-  "mean": 0.4,
-  "median": 0.41
- },
- {
-  "item": "SPINACH",
-  "n": 4,
-  "mean": 0.48,
-  "median": 0.34
- },
- {
-  "item": "BEETROOT",
-  "n": 2,
-  "mean": 0.25,
-  "median": 0.25
- },
- {
-  "item": "CARROT",
-  "n": 16,
-  "mean": 0.23,
-  "median": 0.24
- },
- {
-  "item": "GARLIC",
-  "n": 3,
-  "mean": 0.67,
-  "median": 0.71
- },
- {
-  "item": "ONION",
-  "n": 12,
-  "mean": 0.24,
-  "median": 0.22
- },
- {
-  "item": "RADISH",
-  "n": 1,
-  "mean": 0.15,
-  "median": 0.15
- },
- {
-  "item": "SWEDE",
-  "n": 1,
-  "mean": 0.29,
-  "median": 0.29
- },
- {
-  "item": "TURNIP",
-  "n": 2,
-  "mean": 0.35,
-  "median": 0.35
- },
- {
-  "item": "ARTICHOKE",
-  "n": 1,
-  "mean": 0.33,
-  "median": 0.33
- },
- {
-  "item": "BROCCOLI",
-  "n": 19,
-  "mean": 0.67,
-  "median": 0.57
- },
- {
-  "item": "CAULIFLOWER",
-  "n": 6,
-  "mean": 0.32,
-  "median": 0.31
- },
- {
-  "item": "CELERY",
-  "n": 1,
-  "mean": 0.32,
-  "median": 0.32
- },
- {
-  "item": "CUCUMBER",
-  "n": 15,
-  "mean": 0.32,
-  "median": 0.27
- },
- {
-  "item": "EGGPLANT",
-  "n": 5,
-  "mean": 0.45,
-  "median": 0.19
- },
- {
-  "item": "FENNEL",
-  "n": 1,
-  "mean": 0.48,
-  "median": 0.48
- },
- {
-  "item": "GERKIN",
-  "n": 7,
-  "mean": 0.23,
-  "median": 0.21
- },
- {
-  "item": "PEPPER",
-  "n": 8,
-  "mean": 0.58,
-  "median": 0.65
- },
- {
-  "item": "PUMPKIN",
-  "n": 12,
-  "mean": 0.38,
-  "median": 0.24
- },
- {
-  "item": "TOMATO",
-  "n": 68,
-  "mean": 0.48,
-  "median": 0.45
- },
- {
-  "item": "VEGETABLES",
-  "n": 4,
-  "mean": 0.69,
-  "median": 0.54
- },
- {
-  "item": "ZUCCHINI",
-  "n": 8,
-  "mean": 0.65,
-  "median": 0.7
- },
- {
-  "item": "ALFONSINO",
-  "n": 1,
-  "mean": 3.49,
-  "median": 3.49
- },
- {
-  "item": "ANCHOVY",
-  "n": 6,
-  "mean": 0.81,
-  "median": 0.82
- },
- {
-  "item": "ANGLERFISH",
-  "n": 2,
-  "mean": 12.29,
-  "median": 12.29
- },
- {
-  "item": "CARP",
-  "n": 3,
-  "mean": 1.8,
-  "median": 1.76
- },
- {
-  "item": "CATFISH",
-  "n": 1,
-  "mean": 8.93,
-  "median": 8.93
- },
- {
-  "item": "COD",
-  "n": 22,
-  "mean": 3.29,
-  "median": 3.08
- },
- {
-  "item": "DIAMOND FISH",
-  "n": 3,
-  "mean": 7.56,
-  "median": 6.02
- },
- {
-  "item": "EEL",
-  "n": 1,
-  "mean": 3.88,
-  "median": 3.88
- },
- {
-  "item": "FISH MIXED",
-  "n": 6,
-  "mean": 4.01,
-  "median": 4.99
- },
- {
-  "item": "FLATFISH",
-  "n": 2,
-  "mean": 6.41,
-  "median": 6.41
- },
- {
-  "item": "FLATHEAD",
-  "n": 3,
-  "mean": 2.45,
-  "median": 2.56
- },
- {
-  "item": "FORK BEARD",
-  "n": 2,
-  "mean": 8.01,
-  "median": 8.01
- },
- {
-  "item": "HADDOCK",
-  "n": 3,
-  "mean": 3.25,
-  "median": 3.1
- },
- {
-  "item": "HAKE",
-  "n": 6,
-  "mean": 10.12,
-  "median": 10.4
- },
- {
-  "item": "HERRING",
-  "n": 6,
-  "mean": 2.21,
-  "median": 1.24
- },
- {
-  "item": "LING",
-  "n": 2,
-  "mean": 6.45,
-  "median": 6.45
- },
- {
-  "item": "MACKEREL",
-  "n": 23,
-  "mean": 2.05,
-  "median": 1.8
- },
- {
-  "item": "MEGRIM",
-  "n": 1,
-  "mean": 14.15,
-  "median": 14.15
- },
- {
-  "item": "PLAICE",
-  "n": 1,
-  "mean": 6.13,
-  "median": 6.13
- },
- {
-  "item": "POLLOCK",
-  "n": 2,
-  "mean": 1.4,
-  "median": 1.4
- },
- {
-  "item": "POMFRET",
-  "n": 2,
-  "mean": 6.63,
-  "median": 6.63
- },
- {
-  "item": "PORBEAGLE",
-  "n": 1,
-  "mean": 11.44,
-  "median": 11.44
- },
- {
-  "item": "RHOMBUS",
-  "n": 1,
-  "mean": 8.41,
-  "median": 8.41
- },
- {
-  "item": "ROCK FISH",
-  "n": 1,
-  "mean": 6.94,
-  "median": 6.94
- },
- {
-  "item": "SALMON",
-  "n": 26,
-  "mean": 3.8,
-  "median": 3.37
- },
- {
-  "item": "SARDINE",
-  "n": 5,
-  "mean": 0.9,
-  "median": 0.9
- },
- {
-  "item": "SEA-BASS",
-  "n": 5,
-  "mean": 3.59,
-  "median": 3.6
- },
- {
-  "item": "SHARK",
-  "n": 3,
-  "mean": 10.09,
-  "median": 11.44
- },
- {
-  "item": "SOLE",
-  "n": 2,
-  "mean": 5.4,
-  "median": 5.4
- },
- {
-  "item": "SWARDFISH",
-  "n": 2,
-  "mean": 12.84,
-  "median": 12.84
- },
- {
-  "item": "TROUT",
-  "n": 21,
-  "mean": 3.65,
-  "median": 4.2
- },
- {
-  "item": "TUNA",
-  "n": 6,
-  "mean": 4.68,
-  "median": 3.68
- },
- {
-  "item": "TURBOT",
-  "n": 2,
-  "mean": 14.51,
-  "median": 14.51
- },
- {
-  "item": "WHITING",
-  "n": 2,
-  "mean": 2.66,
-  "median": 2.66
- },
- {
-  "item": "COD (F)",
-  "n": 6,
-  "mean": 3.09,
-  "median": 3.03
- },
- {
-  "item": "FISH STICK (F)",
-  "n": 1,
-  "mean": 2.26,
-  "median": 2.26
- },
- {
-  "item": "HADDOCK (F)",
-  "n": 1,
-  "mean": 3.72,
-  "median": 3.72
- },
- {
-  "item": "HERRING (F)",
-  "n": 4,
-  "mean": 1.31,
-  "median": 1.3
- },
- {
-  "item": "MACKEREL (F)",
-  "n": 3,
-  "mean": 1.11,
-  "median": 0.99
- },
- {
-  "item": "MIXED FISH (F)",
-  "n": 1,
-  "mean": 1.04,
-  "median": 1.04
- },
- {
-  "item": "POLLOCK (F)",
-  "n": 1,
-  "mean": 0.9,
-  "median": 0.9
- },
- {
-  "item": "POLLOCK STICK (F)",
-  "n": 1,
-  "mean": 2.14,
-  "median": 2.14
- },
- {
-  "item": "SALMON (F)",
-  "n": 4,
-  "mean": 1.99,
-  "median": 1.61
- },
- {
-  "item": "SOLE (F)",
-  "n": 2,
-  "mean": 14.28,
-  "median": 14.28
- },
- {
-  "item": "TROUT (F)",
-  "n": 2,
-  "mean": 4.38,
-  "median": 4.38
- },
- {
-  "item": "TUNA (F)",
-  "n": 4,
-  "mean": 2.66,
-  "median": 2.64
- },
- {
-  "item": "COD FISH STICK",
-  "n": 1,
-  "mean": 2.14,
-  "median": 2.14
- },
- {
-  "item": "HAKE FISH STICK",
-  "n": 1,
-  "mean": 2.14,
-  "median": 2.14
- },
- {
-  "item": "MAKEREL FISH STICK",
-  "n": 1,
-  "mean": 1.02,
-  "median": 1.02
- },
- {
-  "item": "TUNA IN CAN",
-  "n": 6,
-  "mean": 2,
-  "median": 2.1
- },
- {
-  "item": "BARNACLE",
-  "n": 6,
-  "mean": 4.32,
-  "median": 2.3
- },
- {
-  "item": "KRILL",
-  "n": 1,
-  "mean": 5.54,
-  "median": 5.54
- },
- {
-  "item": "LOBSTER",
-  "n": 5,
-  "mean": 19.3,
-  "median": 20.25
- },
- {
-  "item": "MUSSELS",
-  "n": 7,
-  "mean": 0.94,
-  "median": 0.46
- },
- {
-  "item": "CUTTLEFISH",
-  "n": 2,
-  "mean": 5.05,
-  "median": 5.05
- },
- {
-  "item": "OCTOPUS",
-  "n": 2,
-  "mean": 5.8,
-  "median": 5.8
- },
- {
-  "item": "SQUID",
-  "n": 3,
-  "mean": 7.51,
-  "median": 6.91
- },
- {
-  "item": "PRAWNS\/SHRIMPS",
-  "n": 18,
-  "mean": 11.95,
-  "median": 7.04
- },
- {
-  "item": "OCTOPUS (F)",
-  "n": 1,
-  "mean": 7.88,
-  "median": 7.88
- },
- {
-  "item": "PRAWNS\/SHRIMPS (F)",
-  "n": 4,
-  "mean": 17.73,
-  "median": 15.07
- }
+    {
+        "item": "BEER IN GLASS",
+        "n": 9,
+        "mean": 1.03,
+        "median": 0.96
+    },
+    {
+        "item": "BEER MODULAR CAN",
+        "n": 5,
+        "mean": 0.54,
+        "median": 0.53
+    },
+    {
+        "item": "CHOCOLATE OR CREAM FILLED COOKIES**",
+        "n": 9,
+        "mean": 1.69,
+        "median": 1.53
+    },
+    {
+        "item": "SIMPLE COOKIES**",
+        "n": 12,
+        "mean": 1.5,
+        "median": 1.39
+    },
+    {
+        "item": "MINERAL WATER*",
+        "n": 2,
+        "mean": 0.49,
+        "median": 0.49
+    },
+    {
+        "item": "BREAD MULTICEREAL**",
+        "n": 2,
+        "mean": 0.7,
+        "median": 0.7
+    },
+    {
+        "item": "BREAD PLAIN**",
+        "n": 9,
+        "mean": 0.97,
+        "median": 0.89
+    },
+    {
+        "item": "BREAD WHOLE**",
+        "n": 5,
+        "mean": 0.78,
+        "median": 0.77
+    },
+    {
+        "item": "BREAD FROZEN (F)*",
+        "n": 1,
+        "mean": 1.31,
+        "median": 1.31
+    },
+    {
+        "item": "CORNFLAKES*",
+        "n": 1,
+        "mean": 2.64,
+        "median": 2.64
+    },
+    {
+        "item": "DARK CHOCOLATE",
+        "n": 3,
+        "mean": 2.67,
+        "median": 2.71
+    },
+    {
+        "item": "MILK CHOCOLATE",
+        "n": 1,
+        "mean": 3.6,
+        "median": 3.6
+    },
+    {
+        "item": "COFFEE GROUND",
+        "n": 2,
+        "mean": 5.13,
+        "median": 5.13
+    },
+    {
+        "item": "COFFEE PARCHMENT",
+        "n": 4,
+        "mean": 8.47,
+        "median": 8.29
+    },
+    {
+        "item": "COFFEE DRIP FILTERED (L)",
+        "n": 2,
+        "mean": 0.6,
+        "median": 0.6
+    },
+    {
+        "item": "COFFEE SOLUBLE POWDER (L)",
+        "n": 1,
+        "mean": 0.33,
+        "median": 0.33
+    },
+    {
+        "item": "ESPRESSO (L)",
+        "n": 1,
+        "mean": 0.55,
+        "median": 0.55
+    },
+    {
+        "item": "FLAVORED CRACKERS**",
+        "n": 4,
+        "mean": 1.01,
+        "median": 0.93
+    },
+    {
+        "item": "PLAIN CRACKERS**",
+        "n": 8,
+        "mean": 1.24,
+        "median": 1.35
+    },
+    {
+        "item": "WHOLEGRAIN CRACKERS**",
+        "n": 17,
+        "mean": 0.99,
+        "median": 0.97
+    },
+    {
+        "item": "CRISPBREAD**",
+        "n": 6,
+        "mean": 1.36,
+        "median": 1.35
+    },
+    {
+        "item": "KETCHUP",
+        "n": 1,
+        "mean": 1.46,
+        "median": 1.46
+    },
+    {
+        "item": "MAYONNAISE",
+        "n": 1,
+        "mean": 2.04,
+        "median": 2.04
+    },
+    {
+        "item": "TEMPE'",
+        "n": 1,
+        "mean": 1.1,
+        "median": 1.1
+    },
+    {
+        "item": "EGG PASTA*",
+        "n": 5,
+        "mean": 3.19,
+        "median": 3.15
+    },
+    {
+        "item": "RASPBERRIES (F)*",
+        "n": 1,
+        "mean": 1.18,
+        "median": 1.18
+    },
+    {
+        "item": "APPLE JUICE (I)",
+        "n": 1,
+        "mean": 2.84,
+        "median": 2.84
+    },
+    {
+        "item": "BLUEBERRY JUICE (I)",
+        "n": 1,
+        "mean": 3,
+        "median": 3
+    },
+    {
+        "item": "CRANBERRY JUICE (I)",
+        "n": 1,
+        "mean": 2.88,
+        "median": 2.88
+    },
+    {
+        "item": "FIG JUICE (I)",
+        "n": 1,
+        "mean": 3.2,
+        "median": 3.2
+    },
+    {
+        "item": "KIWI JUICE (I)",
+        "n": 1,
+        "mean": 2.84,
+        "median": 2.84
+    },
+    {
+        "item": "MANGO JUICE (I)",
+        "n": 1,
+        "mean": 2.96,
+        "median": 2.96
+    },
+    {
+        "item": "PINEAPPLE JUICE (I)",
+        "n": 2,
+        "mean": 2.78,
+        "median": 2.78
+    },
+    {
+        "item": "STRAWBERRY JUICE (I)",
+        "n": 1,
+        "mean": 2.68,
+        "median": 2.68
+    },
+    {
+        "item": "ORANGE JUICE",
+        "n": 13,
+        "mean": 0.62,
+        "median": 0.46
+    },
+    {
+        "item": "PEAR JUICE",
+        "n": 2,
+        "mean": 0.49,
+        "median": 0.49
+    },
+    {
+        "item": "BUCKWHEAT FLOUR",
+        "n": 1,
+        "mean": 1.96,
+        "median": 1.96
+    },
+    {
+        "item": "DURUM WHEAT",
+        "n": 4,
+        "mean": 0.48,
+        "median": 0.47
+    },
+    {
+        "item": "GRAHAM FLOUR",
+        "n": 1,
+        "mean": 0.47,
+        "median": 0.47
+    },
+    {
+        "item": "MAIZE FLOUR",
+        "n": 1,
+        "mean": 1.31,
+        "median": 1.31
+    },
+    {
+        "item": "MILLET FLOUR",
+        "n": 1,
+        "mean": 1.37,
+        "median": 1.37
+    },
+    {
+        "item": "OAT MEAL",
+        "n": 5,
+        "mean": 1.13,
+        "median": 0.87
+    },
+    {
+        "item": "SORGHUM FLOUR",
+        "n": 1,
+        "mean": 1.33,
+        "median": 1.33
+    },
+    {
+        "item": "WHEAT PLAIN FLOUR",
+        "n": 16,
+        "mean": 0.61,
+        "median": 0.52
+    },
+    {
+        "item": "WHOLE WHEAT FLOUR",
+        "n": 6,
+        "mean": 0.38,
+        "median": 0.36
+    },
+    {
+        "item": "CHOCOLATE",
+        "n": 2,
+        "mean": 6.6,
+        "median": 6.6
+    },
+    {
+        "item": "ICE CREAM",
+        "n": 1,
+        "mean": 1.02,
+        "median": 1.02
+    },
+    {
+        "item": "VANILLA",
+        "n": 2,
+        "mean": 4.3,
+        "median": 4.3
+    },
+    {
+        "item": "AZUKI BEAN FLOUR",
+        "n": 1,
+        "mean": 1.32,
+        "median": 1.32
+    },
+    {
+        "item": "MUNG BEAN FLOUR",
+        "n": 1,
+        "mean": 1.49,
+        "median": 1.49
+    },
+    {
+        "item": "SOY MEAL",
+        "n": 2,
+        "mean": 0.62,
+        "median": 0.62
+    },
+    {
+        "item": "BEANS IN CAN",
+        "n": 1,
+        "mean": 0.11,
+        "median": 0.11
+    },
+    {
+        "item": "GREEN BEANS IN CAN",
+        "n": 1,
+        "mean": 1.45,
+        "median": 1.45
+    },
+    {
+        "item": "BEANS (F)",
+        "n": 1,
+        "mean": 1.77,
+        "median": 1.77
+    },
+    {
+        "item": "GREEN BEANS (F)",
+        "n": 1,
+        "mean": 2.74,
+        "median": 2.74
+    },
+    {
+        "item": "MARGARINE*",
+        "n": 6,
+        "mean": 1.43,
+        "median": 1.39
+    },
+    {
+        "item": "ALMOND COVERED WITH CHOCOLATE",
+        "n": 1,
+        "mean": 4.8,
+        "median": 4.8
+    },
+    {
+        "item": "HAZELNUT COVERED WITH CHOCOLATE",
+        "n": 1,
+        "mean": 3.43,
+        "median": 3.43
+    },
+    {
+        "item": "ALMOND PASTE",
+        "n": 2,
+        "mean": 2.98,
+        "median": 2.98
+    },
+    {
+        "item": "HAZELNUT CREAM",
+        "n": 2,
+        "mean": 2.71,
+        "median": 2.71
+    },
+    {
+        "item": "HAZELNUT PASTE",
+        "n": 2,
+        "mean": 1.69,
+        "median": 1.69
+    },
+    {
+        "item": "PEANUT BUTTER",
+        "n": 1,
+        "mean": 1.15,
+        "median": 1.15
+    },
+    {
+        "item": "PEANUT PASTE",
+        "n": 2,
+        "mean": 1.84,
+        "median": 1.84
+    },
+    {
+        "item": "OLIVE OIL",
+        "n": 45,
+        "mean": 3.84,
+        "median": 3.27
+    },
+    {
+        "item": "PALM OIL",
+        "n": 5,
+        "mean": 2.32,
+        "median": 2.43
+    },
+    {
+        "item": "PEANUT OIL",
+        "n": 2,
+        "mean": 2.9,
+        "median": 2.9
+    },
+    {
+        "item": "RAPESEED OIL",
+        "n": 9,
+        "mean": 2.4,
+        "median": 1.79
+    },
+    {
+        "item": "SOYBEAN OIL",
+        "n": 6,
+        "mean": 2.3,
+        "median": 1.79
+    },
+    {
+        "item": "SUNFLOWER OIL",
+        "n": 5,
+        "mean": 0.99,
+        "median": 0.98
+    },
+    {
+        "item": "PASTA*",
+        "n": 48,
+        "mean": 1.24,
+        "median": 1.21
+    },
+    {
+        "item": "PESTO",
+        "n": 2,
+        "mean": 2.71,
+        "median": 2.71
+    },
+    {
+        "item": "PESTO WITHOUT GARLIC",
+        "n": 1,
+        "mean": 2.72,
+        "median": 2.72
+    },
+    {
+        "item": "BEET SUGAR",
+        "n": 9,
+        "mean": 0.89,
+        "median": 0.94
+    },
+    {
+        "item": "CANE SUGAR",
+        "n": 7,
+        "mean": 0.67,
+        "median": 0.62
+    },
+    {
+        "item": "CAKES AND CROISSANT**",
+        "n": 14,
+        "mean": 2.23,
+        "median": 2.14
+    },
+    {
+        "item": "COCOA CAKES AND CROISSANT**",
+        "n": 9,
+        "mean": 1.97,
+        "median": 1.94
+    },
+    {
+        "item": "TOMATO CHOPPED",
+        "n": 4,
+        "mean": 1.41,
+        "median": 1.47
+    },
+    {
+        "item": "TOMATO PEELED",
+        "n": 3,
+        "mean": 1.28,
+        "median": 1.3
+    },
+    {
+        "item": "TOMATO PUREE",
+        "n": 7,
+        "mean": 1.17,
+        "median": 1.03
+    },
+    {
+        "item": "TOMATO & BASIL",
+        "n": 4,
+        "mean": 1.15,
+        "median": 1.14
+    },
+    {
+        "item": "TOMATO ARRABBIATA",
+        "n": 4,
+        "mean": 1.26,
+        "median": 1.24
+    },
+    {
+        "item": "CARROTS CANNED",
+        "n": 1,
+        "mean": 1.6,
+        "median": 1.6
+    },
+    {
+        "item": "CORN CANNED",
+        "n": 1,
+        "mean": 1.36,
+        "median": 1.36
+    },
+    {
+        "item": "CARROTS (F)",
+        "n": 1,
+        "mean": 0.27,
+        "median": 0.27
+    },
+    {
+        "item": "ZUCCHINI (F)",
+        "n": 1,
+        "mean": 1.35,
+        "median": 1.35
+    },
+    {
+        "item": "SOY CREAM*",
+        "n": 1,
+        "mean": 1.62,
+        "median": 1.62
+    },
+    {
+        "item": "ALMOND MILK",
+        "n": 2,
+        "mean": 0.42,
+        "median": 0.42
+    },
+    {
+        "item": "COCONUT MILK",
+        "n": 2,
+        "mean": 0.41,
+        "median": 0.41
+    },
+    {
+        "item": "RICE MILK",
+        "n": 3,
+        "mean": 0.8,
+        "median": 0.66
+    },
+    {
+        "item": "SOY MILK",
+        "n": 22,
+        "mean": 0.85,
+        "median": 0.78
+    },
+    {
+        "item": "QUORNE",
+        "n": 2,
+        "mean": 2.5,
+        "median": 2.5
+    },
+    {
+        "item": "SOY BURGER",
+        "n": 1,
+        "mean": 1.48,
+        "median": 1.48
+    },
+    {
+        "item": "TOFU",
+        "n": 4,
+        "mean": 2.33,
+        "median": 2.27
+    },
+    {
+        "item": "SOY YOGURT*",
+        "n": 1,
+        "mean": 1.36,
+        "median": 1.36
+    },
+    {
+        "item": "WINE RED",
+        "n": 17,
+        "mean": 1.02,
+        "median": 0.87
+    },
+    {
+        "item": "WINE WHITE",
+        "n": 3,
+        "mean": 0.74,
+        "median": 0.44
+    },
+    {
+        "item": "YEAST COMPRESSED*",
+        "n": 1,
+        "mean": 0.82,
+        "median": 0.82
+    },
+    {
+        "item": "YEAST DRIED*",
+        "n": 1,
+        "mean": 3.29,
+        "median": 3.29
+    },
+    {
+        "item": "YEAST LIQUID*",
+        "n": 1,
+        "mean": 0.5,
+        "median": 0.5
+    },
+    {
+        "item": "BEEF BONE FREE MEAT*",
+        "n": 183,
+        "mean": 27.72,
+        "median": 25.75
+    },
+    {
+        "item": "BEEF MEAT WITH BONE*",
+        "n": 172,
+        "mean": 19.54,
+        "median": 17.96
+    },
+    {
+        "item": "BUFFALO BONE FREE MEAT*",
+        "n": 3,
+        "mean": 71.39,
+        "median": 78.8
+    },
+    {
+        "item": "BUTTER*",
+        "n": 11,
+        "mean": 9.9,
+        "median": 8.48
+    },
+    {
+        "item": "CREAM",
+        "n": 8,
+        "mean": 5.34,
+        "median": 5.45
+    },
+    {
+        "item": "MASCARPONE",
+        "n": 1,
+        "mean": 5.7,
+        "median": 5.7
+    },
+    {
+        "item": "MOZZARELLA",
+        "n": 14,
+        "mean": 8.48,
+        "median": 8.2
+    },
+    {
+        "item": "RICOTTA",
+        "n": 1,
+        "mean": 3.4,
+        "median": 3.4
+    },
+    {
+        "item": "STRACCHINO",
+        "n": 1,
+        "mean": 4.92,
+        "median": 4.92
+    },
+    {
+        "item": "ASIAGO",
+        "n": 1,
+        "mean": 10.24,
+        "median": 10.24
+    },
+    {
+        "item": "CAMEMBERT",
+        "n": 2,
+        "mean": 7.55,
+        "median": 7.55
+    },
+    {
+        "item": "CEDDAR",
+        "n": 4,
+        "mean": 11.87,
+        "median": 11.21
+    },
+    {
+        "item": "CHEESE",
+        "n": 27,
+        "mean": 9.29,
+        "median": 8.93
+    },
+    {
+        "item": "CHEESE SEMI-HARD",
+        "n": 2,
+        "mean": 8.65,
+        "median": 8.65
+    },
+    {
+        "item": "EMMENTAL",
+        "n": 1,
+        "mean": 8.2,
+        "median": 8.2
+    },
+    {
+        "item": "GOAT CHEESE",
+        "n": 3,
+        "mean": 8.18,
+        "median": 8.35
+    },
+    {
+        "item": "GRANA PADANO",
+        "n": 3,
+        "mean": 14.27,
+        "median": 15.34
+    },
+    {
+        "item": "PARMIGIANO REGGIANO",
+        "n": 3,
+        "mean": 14.08,
+        "median": 12.54
+    },
+    {
+        "item": "PECORINO",
+        "n": 3,
+        "mean": 18.85,
+        "median": 17.15
+    },
+    {
+        "item": "MEALWORMS*",
+        "n": 1,
+        "mean": 2.84,
+        "median": 2.84
+    },
+    {
+        "item": "EGGS*",
+        "n": 51,
+        "mean": 3.23,
+        "median": 3.2
+    },
+    {
+        "item": "HONEY*",
+        "n": 2,
+        "mean": 1.74,
+        "median": 1.74
+    },
+    {
+        "item": "KANGAROO MEAT*",
+        "n": 1,
+        "mean": 4.1,
+        "median": 4.1
+    },
+    {
+        "item": "LAMB BONE FREE MEAT*",
+        "n": 55,
+        "mean": 27.21,
+        "median": 25.23
+    },
+    {
+        "item": "LAMB MEAT WITH BONE*",
+        "n": 55,
+        "mean": 18.01,
+        "median": 16.7
+    },
+    {
+        "item": "BUFFALO MILK",
+        "n": 7,
+        "mean": 3.75,
+        "median": 3.57
+    },
+    {
+        "item": "COW MILK",
+        "n": 364,
+        "mean": 1.43,
+        "median": 1.31
+    },
+    {
+        "item": "GOAT MILK",
+        "n": 2,
+        "mean": 1.44,
+        "median": 1.44
+    },
+    {
+        "item": "PORK BONE FREE MEAT*",
+        "n": 135,
+        "mean": 5.79,
+        "median": 5.72
+    },
+    {
+        "item": "BACON",
+        "n": 2,
+        "mean": 4.03,
+        "median": 4.03
+    },
+    {
+        "item": "NECK",
+        "n": 2,
+        "mean": 4.03,
+        "median": 4.03
+    },
+    {
+        "item": "PORK HAM",
+        "n": 4,
+        "mean": 7.93,
+        "median": 7.95
+    },
+    {
+        "item": "PORK SAUSAGES",
+        "n": 1,
+        "mean": 17.94,
+        "median": 17.94
+    },
+    {
+        "item": "PORK MEAT WITH BONE*",
+        "n": 131,
+        "mean": 3.5,
+        "median": 3.44
+    },
+    {
+        "item": "CHICKEN BONE FREE MEAT",
+        "n": 100,
+        "mean": 4.24,
+        "median": 3.68
+    },
+    {
+        "item": "EMU BONE FREE MEAT",
+        "n": 1,
+        "mean": 1.5,
+        "median": 1.5
+    },
+    {
+        "item": "DUCK MEAT BONE FREE",
+        "n": 1,
+        "mean": 4.1,
+        "median": 4.1
+    },
+    {
+        "item": "TURKEY MEAT BONE FREE",
+        "n": 12,
+        "mean": 5.11,
+        "median": 4.08
+    },
+    {
+        "item": "CHICKEN MEAT WITH BONE",
+        "n": 98,
+        "mean": 3.25,
+        "median": 2.82
+    },
+    {
+        "item": "DUCK MEAT WITH BONE",
+        "n": 1,
+        "mean": 2.07,
+        "median": 2.07
+    },
+    {
+        "item": "TURKEY MEAT WITH BONE",
+        "n": 6,
+        "mean": 2.08,
+        "median": 2.13
+    },
+    {
+        "item": "RABBIT MEAT WITH BONE*",
+        "n": 2,
+        "mean": 4.31,
+        "median": 4.31
+    },
+    {
+        "item": "SNAILS*",
+        "n": 1,
+        "mean": 0.73,
+        "median": 0.73
+    },
+    {
+        "item": "YOGURT FLAVOURED**",
+        "n": 14,
+        "mean": 2.81,
+        "median": 2.85
+    },
+    {
+        "item": "YOGURT LACTOSE FREE",
+        "n": 4,
+        "mean": 3.16,
+        "median": 3.47
+    },
+    {
+        "item": "YOGURT WHITE",
+        "n": 20,
+        "mean": 2.1,
+        "median": 1.69
+    },
+    {
+        "item": "COFFEE GREEN*",
+        "n": 8,
+        "mean": 0.49,
+        "median": 0.49
+    },
+    {
+        "item": "DATE",
+        "n": 2,
+        "mean": 0.6,
+        "median": 0.6
+    },
+    {
+        "item": "RAISIN",
+        "n": 5,
+        "mean": 0.66,
+        "median": 0.81
+    },
+    {
+        "item": "EXOTIC FRUIT (G)",
+        "n": 1,
+        "mean": 2.43,
+        "median": 2.43
+    },
+    {
+        "item": "RASPBERRY (G)",
+        "n": 2,
+        "mean": 7.35,
+        "median": 7.35
+    },
+    {
+        "item": "STRAWBERRY (G)",
+        "n": 4,
+        "mean": 2.94,
+        "median": 2.88
+    },
+    {
+        "item": "AVOCADO (I)",
+        "n": 4,
+        "mean": 1,
+        "median": 1.09
+    },
+    {
+        "item": "BANANA (I)",
+        "n": 20,
+        "mean": 0.81,
+        "median": 0.82
+    },
+    {
+        "item": "COCONUT (I)",
+        "n": 1,
+        "mean": 1.78,
+        "median": 1.78
+    },
+    {
+        "item": "EXOTIC FRUIT (I)",
+        "n": 1,
+        "mean": 2.43,
+        "median": 2.43
+    },
+    {
+        "item": "PINEAPPLE (I)",
+        "n": 7,
+        "mean": 0.73,
+        "median": 0.55
+    },
+    {
+        "item": "POMEGRANATE (I)",
+        "n": 1,
+        "mean": 1.17,
+        "median": 1.17
+    },
+    {
+        "item": "STRAWBERRY (I)",
+        "n": 2,
+        "mean": 0.84,
+        "median": 0.84
+    },
+    {
+        "item": "MELON (g)*",
+        "n": 4,
+        "mean": 1.41,
+        "median": 1.43
+    },
+    {
+        "item": "CLEMENTINE",
+        "n": 3,
+        "mean": 0.42,
+        "median": 0.41
+    },
+    {
+        "item": "LEMON",
+        "n": 2,
+        "mean": 0.22,
+        "median": 0.22
+    },
+    {
+        "item": "LIME",
+        "n": 2,
+        "mean": 0.22,
+        "median": 0.22
+    },
+    {
+        "item": "MANDARIN",
+        "n": 7,
+        "mean": 0.4,
+        "median": 0.45
+    },
+    {
+        "item": "ORANGE",
+        "n": 31,
+        "mean": 0.35,
+        "median": 0.3
+    },
+    {
+        "item": "POMELO",
+        "n": 1,
+        "mean": 0.51,
+        "median": 0.51
+    },
+    {
+        "item": "TANGERIN",
+        "n": 2,
+        "mean": 0.38,
+        "median": 0.38
+    },
+    {
+        "item": "APPLE",
+        "n": 59,
+        "mean": 0.31,
+        "median": 0.25
+    },
+    {
+        "item": "APRICOT",
+        "n": 7,
+        "mean": 0.36,
+        "median": 0.3
+    },
+    {
+        "item": "AVOCADO",
+        "n": 4,
+        "mean": 0.54,
+        "median": 0.54
+    },
+    {
+        "item": "BANANA",
+        "n": 9,
+        "mean": 0.38,
+        "median": 0.34
+    },
+    {
+        "item": "CARROB",
+        "n": 2,
+        "mean": 1.1,
+        "median": 1.1
+    },
+    {
+        "item": "CHERRY",
+        "n": 7,
+        "mean": 0.49,
+        "median": 0.46
+    },
+    {
+        "item": "FIG",
+        "n": 3,
+        "mean": 0.31,
+        "median": 0.26
+    },
+    {
+        "item": "GRAPES",
+        "n": 15,
+        "mean": 0.39,
+        "median": 0.31
+    },
+    {
+        "item": "GUAVA",
+        "n": 1,
+        "mean": 0.28,
+        "median": 0.28
+    },
+    {
+        "item": "KIWI",
+        "n": 12,
+        "mean": 0.65,
+        "median": 0.49
+    },
+    {
+        "item": "MANGO",
+        "n": 6,
+        "mean": 0.33,
+        "median": 0.31
+    },
+    {
+        "item": "MELON",
+        "n": 6,
+        "mean": 0.56,
+        "median": 0.61
+    },
+    {
+        "item": "PEACH",
+        "n": 12,
+        "mean": 0.43,
+        "median": 0.39
+    },
+    {
+        "item": "PEAR",
+        "n": 12,
+        "mean": 0.29,
+        "median": 0.27
+    },
+    {
+        "item": "PINEAPPLE",
+        "n": 6,
+        "mean": 0.34,
+        "median": 0.28
+    },
+    {
+        "item": "PLUM",
+        "n": 3,
+        "mean": 0.27,
+        "median": 0.26
+    },
+    {
+        "item": "POMEGRANATE",
+        "n": 3,
+        "mean": 0.45,
+        "median": 0.32
+    },
+    {
+        "item": "ROCKMELON",
+        "n": 1,
+        "mean": 0.39,
+        "median": 0.39
+    },
+    {
+        "item": "WATERMELON",
+        "n": 1,
+        "mean": 0.52,
+        "median": 0.52
+    },
+    {
+        "item": "OLIVES",
+        "n": 9,
+        "mean": 0.59,
+        "median": 0.64
+    },
+    {
+        "item": "BLACKBERRY",
+        "n": 1,
+        "mean": 0.42,
+        "median": 0.42
+    },
+    {
+        "item": "BLUEBERRY",
+        "n": 8,
+        "mean": 0.64,
+        "median": 0.78
+    },
+    {
+        "item": "CRANBERRY",
+        "n": 3,
+        "mean": 0.9,
+        "median": 0.87
+    },
+    {
+        "item": "CURRANT",
+        "n": 2,
+        "mean": 0.64,
+        "median": 0.64
+    },
+    {
+        "item": "GOOSEBERRY",
+        "n": 1,
+        "mean": 0.84,
+        "median": 0.84
+    },
+    {
+        "item": "RASPBERRY",
+        "n": 2,
+        "mean": 0.63,
+        "median": 0.63
+    },
+    {
+        "item": "STRAWBERRY",
+        "n": 27,
+        "mean": 0.68,
+        "median": 0.61
+    },
+    {
+        "item": "BARLEY",
+        "n": 17,
+        "mean": 0.53,
+        "median": 0.48
+    },
+    {
+        "item": "MAIZE",
+        "n": 7,
+        "mean": 0.79,
+        "median": 0.48
+    },
+    {
+        "item": "MILLET",
+        "n": 2,
+        "mean": 0.86,
+        "median": 0.86
+    },
+    {
+        "item": "OAT",
+        "n": 5,
+        "mean": 0.7,
+        "median": 0.67
+    },
+    {
+        "item": "QUINOA",
+        "n": 12,
+        "mean": 0.96,
+        "median": 0.97
+    },
+    {
+        "item": "RYE",
+        "n": 3,
+        "mean": 0.41,
+        "median": 0.38
+    },
+    {
+        "item": "SORGHUM",
+        "n": 1,
+        "mean": 0.88,
+        "median": 0.88
+    },
+    {
+        "item": "WHEAT",
+        "n": 44,
+        "mean": 0.67,
+        "median": 0.57
+    },
+    {
+        "item": "BEAN",
+        "n": 14,
+        "mean": 0.67,
+        "median": 0.43
+    },
+    {
+        "item": "CHICKPEA",
+        "n": 3,
+        "mean": 0.67,
+        "median": 0.77
+    },
+    {
+        "item": "COWPEA",
+        "n": 4,
+        "mean": 0.48,
+        "median": 0.49
+    },
+    {
+        "item": "GREEN BEAN (fresh)",
+        "n": 11,
+        "mean": 0.73,
+        "median": 0.52
+    },
+    {
+        "item": "LENTIL",
+        "n": 2,
+        "mean": 1.03,
+        "median": 1.03
+    },
+    {
+        "item": "PEA",
+        "n": 12,
+        "mean": 0.58,
+        "median": 0.45
+    },
+    {
+        "item": "SOYBEAN",
+        "n": 5,
+        "mean": 0.6,
+        "median": 0.56
+    },
+    {
+        "item": "GREEN BEAN (fresh) (g)*",
+        "n": 4,
+        "mean": 0.31,
+        "median": 0.28
+    },
+    {
+        "item": "MUSHROOM*",
+        "n": 6,
+        "mean": 1.78,
+        "median": 2.06
+    },
+    {
+        "item": "ALMOND",
+        "n": 13,
+        "mean": 1.9,
+        "median": 1.88
+    },
+    {
+        "item": "CASHEW NUT",
+        "n": 11,
+        "mean": 1.56,
+        "median": 1.38
+    },
+    {
+        "item": "CHESTNUT",
+        "n": 3,
+        "mean": 0.64,
+        "median": 0.44
+    },
+    {
+        "item": "HAZELNUT",
+        "n": 5,
+        "mean": 1.07,
+        "median": 1.11
+    },
+    {
+        "item": "MIXED NUTS",
+        "n": 1,
+        "mean": 0.47,
+        "median": 0.47
+    },
+    {
+        "item": "PALM NUT",
+        "n": 1,
+        "mean": 0.8,
+        "median": 0.8
+    },
+    {
+        "item": "PEANUT",
+        "n": 10,
+        "mean": 0.89,
+        "median": 0.83
+    },
+    {
+        "item": "PISTACHIO",
+        "n": 4,
+        "mean": 1.6,
+        "median": 1.6
+    },
+    {
+        "item": "WALNUT",
+        "n": 5,
+        "mean": 1.75,
+        "median": 2.06
+    },
+    {
+        "item": "RICE*",
+        "n": 35,
+        "mean": 2.54,
+        "median": 2.19
+    },
+    {
+        "item": "RAPE SEED",
+        "n": 3,
+        "mean": 1.05,
+        "median": 0.78
+    },
+    {
+        "item": "SESAM SEED",
+        "n": 1,
+        "mean": 0.88,
+        "median": 0.88
+    },
+    {
+        "item": "SUNFLOWER SEED",
+        "n": 2,
+        "mean": 1.16,
+        "median": 1.16
+    },
+    {
+        "item": "CHILLY",
+        "n": 1,
+        "mean": 0.8,
+        "median": 0.8
+    },
+    {
+        "item": "GINGER",
+        "n": 1,
+        "mean": 0.88,
+        "median": 0.88
+    },
+    {
+        "item": "POTATO",
+        "n": 35,
+        "mean": 0.25,
+        "median": 0.24
+    },
+    {
+        "item": "STARCHY ROOTS",
+        "n": 2,
+        "mean": 0.29,
+        "median": 0.29
+    },
+    {
+        "item": "SWEET POTATO",
+        "n": 3,
+        "mean": 0.35,
+        "median": 0.27
+    },
+    {
+        "item": "CUCUMBER (G)",
+        "n": 8,
+        "mean": 2.59,
+        "median": 2.55
+    },
+    {
+        "item": "GERKIN (G)",
+        "n": 4,
+        "mean": 2.52,
+        "median": 2.12
+    },
+    {
+        "item": "LETTUCE (G)",
+        "n": 7,
+        "mean": 2.69,
+        "median": 2.67
+    },
+    {
+        "item": "PEPPER (G)",
+        "n": 4,
+        "mean": 4.6,
+        "median": 3.73
+    },
+    {
+        "item": "TOMATO (G)",
+        "n": 36,
+        "mean": 2.89,
+        "median": 2.43
+    },
+    {
+        "item": "CUCUMBER (g)",
+        "n": 1,
+        "mean": 0.32,
+        "median": 0.32
+    },
+    {
+        "item": "EGGPLANT (g)",
+        "n": 1,
+        "mean": 2.9,
+        "median": 2.9
+    },
+    {
+        "item": "PEPPER (g)",
+        "n": 2,
+        "mean": 1.18,
+        "median": 1.18
+    },
+    {
+        "item": "TOMATO (g)",
+        "n": 28,
+        "mean": 0.94,
+        "median": 0.91
+    },
+    {
+        "item": "ZUCCHINI (g)",
+        "n": 2,
+        "mean": 1.77,
+        "median": 1.77
+    },
+    {
+        "item": "ASPARAGUS",
+        "n": 33,
+        "mean": 0.97,
+        "median": 0.83
+    },
+    {
+        "item": "CABAGGE",
+        "n": 9,
+        "mean": 0.3,
+        "median": 0.23
+    },
+    {
+        "item": "LETTUCE",
+        "n": 27,
+        "mean": 0.4,
+        "median": 0.41
+    },
+    {
+        "item": "SPINACH",
+        "n": 4,
+        "mean": 0.48,
+        "median": 0.34
+    },
+    {
+        "item": "BEETROOT",
+        "n": 2,
+        "mean": 0.25,
+        "median": 0.25
+    },
+    {
+        "item": "CARROT",
+        "n": 16,
+        "mean": 0.23,
+        "median": 0.24
+    },
+    {
+        "item": "GARLIC",
+        "n": 3,
+        "mean": 0.67,
+        "median": 0.71
+    },
+    {
+        "item": "ONION",
+        "n": 12,
+        "mean": 0.24,
+        "median": 0.22
+    },
+    {
+        "item": "RADISH",
+        "n": 1,
+        "mean": 0.15,
+        "median": 0.15
+    },
+    {
+        "item": "SWEDE",
+        "n": 1,
+        "mean": 0.29,
+        "median": 0.29
+    },
+    {
+        "item": "TURNIP",
+        "n": 2,
+        "mean": 0.35,
+        "median": 0.35
+    },
+    {
+        "item": "ARTICHOKE",
+        "n": 1,
+        "mean": 0.33,
+        "median": 0.33
+    },
+    {
+        "item": "BROCCOLI",
+        "n": 19,
+        "mean": 0.67,
+        "median": 0.57
+    },
+    {
+        "item": "CAULIFLOWER",
+        "n": 6,
+        "mean": 0.32,
+        "median": 0.31
+    },
+    {
+        "item": "CELERY",
+        "n": 1,
+        "mean": 0.32,
+        "median": 0.32
+    },
+    {
+        "item": "CUCUMBER",
+        "n": 15,
+        "mean": 0.32,
+        "median": 0.27
+    },
+    {
+        "item": "EGGPLANT",
+        "n": 5,
+        "mean": 0.45,
+        "median": 0.19
+    },
+    {
+        "item": "FENNEL",
+        "n": 1,
+        "mean": 0.48,
+        "median": 0.48
+    },
+    {
+        "item": "GERKIN",
+        "n": 7,
+        "mean": 0.23,
+        "median": 0.21
+    },
+    {
+        "item": "PEPPER",
+        "n": 8,
+        "mean": 0.58,
+        "median": 0.65
+    },
+    {
+        "item": "PUMPKIN",
+        "n": 12,
+        "mean": 0.38,
+        "median": 0.24
+    },
+    {
+        "item": "TOMATO",
+        "n": 68,
+        "mean": 0.48,
+        "median": 0.45
+    },
+    {
+        "item": "VEGETABLES",
+        "n": 4,
+        "mean": 0.69,
+        "median": 0.54
+    },
+    {
+        "item": "ZUCCHINI",
+        "n": 8,
+        "mean": 0.65,
+        "median": 0.7
+    },
+    {
+        "item": "ALFONSINO",
+        "n": 1,
+        "mean": 3.49,
+        "median": 3.49
+    },
+    {
+        "item": "ANCHOVY",
+        "n": 6,
+        "mean": 0.81,
+        "median": 0.82
+    },
+    {
+        "item": "ANGLERFISH",
+        "n": 2,
+        "mean": 12.29,
+        "median": 12.29
+    },
+    {
+        "item": "CARP",
+        "n": 3,
+        "mean": 1.8,
+        "median": 1.76
+    },
+    {
+        "item": "CATFISH",
+        "n": 1,
+        "mean": 8.93,
+        "median": 8.93
+    },
+    {
+        "item": "COD",
+        "n": 22,
+        "mean": 3.29,
+        "median": 3.08
+    },
+    {
+        "item": "DIAMOND FISH",
+        "n": 3,
+        "mean": 7.56,
+        "median": 6.02
+    },
+    {
+        "item": "EEL",
+        "n": 1,
+        "mean": 3.88,
+        "median": 3.88
+    },
+    {
+        "item": "FISH MIXED",
+        "n": 6,
+        "mean": 4.01,
+        "median": 4.99
+    },
+    {
+        "item": "FLATFISH",
+        "n": 2,
+        "mean": 6.41,
+        "median": 6.41
+    },
+    {
+        "item": "FLATHEAD",
+        "n": 3,
+        "mean": 2.45,
+        "median": 2.56
+    },
+    {
+        "item": "FORK BEARD",
+        "n": 2,
+        "mean": 8.01,
+        "median": 8.01
+    },
+    {
+        "item": "HADDOCK",
+        "n": 3,
+        "mean": 3.25,
+        "median": 3.1
+    },
+    {
+        "item": "HAKE",
+        "n": 6,
+        "mean": 10.12,
+        "median": 10.4
+    },
+    {
+        "item": "HERRING",
+        "n": 6,
+        "mean": 2.21,
+        "median": 1.24
+    },
+    {
+        "item": "LING",
+        "n": 2,
+        "mean": 6.45,
+        "median": 6.45
+    },
+    {
+        "item": "MACKEREL",
+        "n": 23,
+        "mean": 2.05,
+        "median": 1.8
+    },
+    {
+        "item": "MEGRIM",
+        "n": 1,
+        "mean": 14.15,
+        "median": 14.15
+    },
+    {
+        "item": "PLAICE",
+        "n": 1,
+        "mean": 6.13,
+        "median": 6.13
+    },
+    {
+        "item": "POLLOCK",
+        "n": 2,
+        "mean": 1.4,
+        "median": 1.4
+    },
+    {
+        "item": "POMFRET",
+        "n": 2,
+        "mean": 6.63,
+        "median": 6.63
+    },
+    {
+        "item": "PORBEAGLE",
+        "n": 1,
+        "mean": 11.44,
+        "median": 11.44
+    },
+    {
+        "item": "RHOMBUS",
+        "n": 1,
+        "mean": 8.41,
+        "median": 8.41
+    },
+    {
+        "item": "ROCK FISH",
+        "n": 1,
+        "mean": 6.94,
+        "median": 6.94
+    },
+    {
+        "item": "SALMON",
+        "n": 26,
+        "mean": 3.8,
+        "median": 3.37
+    },
+    {
+        "item": "SARDINE",
+        "n": 5,
+        "mean": 0.9,
+        "median": 0.9
+    },
+    {
+        "item": "SEA-BASS",
+        "n": 5,
+        "mean": 3.59,
+        "median": 3.6
+    },
+    {
+        "item": "SHARK",
+        "n": 3,
+        "mean": 10.09,
+        "median": 11.44
+    },
+    {
+        "item": "SOLE",
+        "n": 2,
+        "mean": 5.4,
+        "median": 5.4
+    },
+    {
+        "item": "SWARDFISH",
+        "n": 2,
+        "mean": 12.84,
+        "median": 12.84
+    },
+    {
+        "item": "TROUT",
+        "n": 21,
+        "mean": 3.65,
+        "median": 4.2
+    },
+    {
+        "item": "TUNA",
+        "n": 6,
+        "mean": 4.68,
+        "median": 3.68
+    },
+    {
+        "item": "TURBOT",
+        "n": 2,
+        "mean": 14.51,
+        "median": 14.51
+    },
+    {
+        "item": "WHITING",
+        "n": 2,
+        "mean": 2.66,
+        "median": 2.66
+    },
+    {
+        "item": "COD (F)",
+        "n": 6,
+        "mean": 3.09,
+        "median": 3.03
+    },
+    {
+        "item": "FISH STICK (F)",
+        "n": 1,
+        "mean": 2.26,
+        "median": 2.26
+    },
+    {
+        "item": "HADDOCK (F)",
+        "n": 1,
+        "mean": 3.72,
+        "median": 3.72
+    },
+    {
+        "item": "HERRING (F)",
+        "n": 4,
+        "mean": 1.31,
+        "median": 1.3
+    },
+    {
+        "item": "MACKEREL (F)",
+        "n": 3,
+        "mean": 1.11,
+        "median": 0.99
+    },
+    {
+        "item": "MIXED FISH (F)",
+        "n": 1,
+        "mean": 1.04,
+        "median": 1.04
+    },
+    {
+        "item": "POLLOCK (F)",
+        "n": 1,
+        "mean": 0.9,
+        "median": 0.9
+    },
+    {
+        "item": "POLLOCK STICK (F)",
+        "n": 1,
+        "mean": 2.14,
+        "median": 2.14
+    },
+    {
+        "item": "SALMON (F)",
+        "n": 4,
+        "mean": 1.99,
+        "median": 1.61
+    },
+    {
+        "item": "SOLE (F)",
+        "n": 2,
+        "mean": 14.28,
+        "median": 14.28
+    },
+    {
+        "item": "TROUT (F)",
+        "n": 2,
+        "mean": 4.38,
+        "median": 4.38
+    },
+    {
+        "item": "TUNA (F)",
+        "n": 4,
+        "mean": 2.66,
+        "median": 2.64
+    },
+    {
+        "item": "COD FISH STICK",
+        "n": 1,
+        "mean": 2.14,
+        "median": 2.14
+    },
+    {
+        "item": "HAKE FISH STICK",
+        "n": 1,
+        "mean": 2.14,
+        "median": 2.14
+    },
+    {
+        "item": "MAKEREL FISH STICK",
+        "n": 1,
+        "mean": 1.02,
+        "median": 1.02
+    },
+    {
+        "item": "TUNA IN CAN",
+        "n": 6,
+        "mean": 2,
+        "median": 2.1
+    },
+    {
+        "item": "BARNACLE",
+        "n": 6,
+        "mean": 4.32,
+        "median": 2.3
+    },
+    {
+        "item": "KRILL",
+        "n": 1,
+        "mean": 5.54,
+        "median": 5.54
+    },
+    {
+        "item": "LOBSTER",
+        "n": 5,
+        "mean": 19.3,
+        "median": 20.25
+    },
+    {
+        "item": "MUSSELS",
+        "n": 7,
+        "mean": 0.94,
+        "median": 0.46
+    },
+    {
+        "item": "CUTTLEFISH",
+        "n": 2,
+        "mean": 5.05,
+        "median": 5.05
+    },
+    {
+        "item": "OCTOPUS",
+        "n": 2,
+        "mean": 5.8,
+        "median": 5.8
+    },
+    {
+        "item": "SQUID",
+        "n": 3,
+        "mean": 7.51,
+        "median": 6.91
+    },
+    {
+        "item": "PRAWNS\/SHRIMPS",
+        "n": 18,
+        "mean": 11.95,
+        "median": 7.04
+    },
+    {
+        "item": "OCTOPUS (F)",
+        "n": 1,
+        "mean": 7.88,
+        "median": 7.88
+    },
+    {
+        "item": "PRAWNS\/SHRIMPS (F)",
+        "n": 4,
+        "mean": 17.73,
+        "median": 15.07
+    }
 ]
